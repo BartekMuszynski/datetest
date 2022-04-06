@@ -1,0 +1,12 @@
+Zadanie - stwórz funkcje, która zwraca:
+# 1. czy rok jest przestępny czy nie - jeśli podamy jedynie rok
+# 2. ile dni jest w danym miesiącu - jeśli podamy rok i miesiąc
+# 3. który to dzień roku - jeśli podamy całą datę (czyli np. "13/12/2021")
+
+# 1. poziom trudności input()
+# 2. poziom trudności sczytywanie z klawiatury (input w konsoli)
+# 3. poziom trudności sczytywanie z pliku
+
+Dodatkowe uwagi:
+# użyj poprawnie if
+# użyj return
