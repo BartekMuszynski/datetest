@@ -1,0 +1,12 @@
+2/2/1999
+
+#def date_check3(*args):
+    if len(args) == 1:
+        x = args[0]
+        print(x)
+    elif len(args) == 2:
+        y = args.split('/')
+        print(y)
+        print(args)
+
+date_check3(15/20)
